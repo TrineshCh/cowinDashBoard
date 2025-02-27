@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.v-g-head {
+  font-size: 26px;
+  color: #cbd5e1;
+}
+.semi-pie-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dash-background-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1c1c2b;
+  height: 400px;
+  width: 90%;
+  margin-bottom: 25px;
+}
